@@ -13,12 +13,6 @@ Authentication with Firebase
 
 ![](Images/Login.png)
 
-For Demo --
 
-Clone this repo using --
-$ git clone <url>
-  
-$ cd <this folder>
-  
-$ npm install
-  
+
+
